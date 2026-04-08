@@ -17,7 +17,7 @@ import asyncio
 # НАЛАШТУВАННЯ — замінити свої значення
 # ──────────────────────────────────────────────
 
-BOT_TOKEN = os.environ.get("8253838404:AAEwhxMqFWE0iYuBYLvuKt8YtueA8sOIZS0", "8253838404:AAEwhxMqFWE0iYuBYLvuKt8YtueA8sOIZS0")
+BOT_TOKEN = os.environ.get("8253838404:AAFQK6X1PX2o-5w0GHm73FBWmxtAmIooEoU", "8253838404:AAFQK6X1PX2o-5w0GHm73FBWmxtAmIooEoU")
 
 SPREADSHEET_ID = "1-LeXy4MAF35ntYfB94tVKVsU68dEl1hy50O-ynbx7jE"  # вже вставлено з твого посилання
 
